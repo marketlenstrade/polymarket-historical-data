@@ -1,0 +1,72 @@
+{
+  "chapters": [
+    {
+      "folder": "bitcoin-5m-15m-hourly-2026-06-15",
+      "title": "Bitcoin up or down, one day at three cadences",
+      "mode": "series_window",
+      "series": [
+        "btc-up-or-down-5m",
+        "btc-up-or-down-15m",
+        "btc-up-or-down-hourly"
+      ],
+      "after": "2026-06-15T00:00:00Z",
+      "before": "2026-06-16T00:00:00Z",
+      "reference": "BTC",
+      "blurb": "Every 5 minute, 15 minute and hourly Bitcoin up or down market of June 15, 2026 (UTC), with the Binance BTC trade tape of the day in reference-BTC.parquet."
+    },
+    {
+      "folder": "mlb-2026-07-05",
+      "title": "MLB, one full day",
+      "mode": "market_list",
+      "series": "mlb",
+      "resolved_after": "2026-07-05T00:00:00Z",
+      "resolved_before": "2026-07-06T00:00:00Z",
+      "blurb": "Every MLB market that settled on July 5, 2026: moneylines, run lines, totals and first five innings for the full slate."
+    },
+    {
+      "folder": "world-cup-final-2026-07-19",
+      "title": "World Cup final day",
+      "mode": "market_list",
+      "series": "soccer-fifwc",
+      "resolved_after": "2026-07-19T00:00:00Z",
+      "resolved_before": "2026-07-20T00:00:00Z",
+      "blurb": "World Cup markets that settled on the day of the final (Spain vs Argentina, July 19, 2026): winner, exact score, totals, corners, halves and player props."
+    },
+    {
+      "folder": "ufc-330-2026-08-16",
+      "title": "UFC 330",
+      "mode": "market_list",
+      "series": "ufc",
+      "resolved_after": "2026-08-16T00:00:00Z",
+      "resolved_before": "2026-08-17T00:00:00Z",
+      "blurb": "UFC 330 (Makhachev vs Machado Garry, August 15, 2026): fight winners, method of victory and round totals across the card."
+    },
+    {
+      "folder": "counter-strike-2026-09-10",
+      "title": "Counter-Strike, one day",
+      "mode": "market_list",
+      "series": "counter-strike",
+      "resolved_after": "2026-09-10T00:00:00Z",
+      "resolved_before": "2026-09-11T00:00:00Z",
+      "blurb": "Counter-Strike markets that settled on September 10, 2026: match winners, map winners and map spreads from PGL Masters Bucharest and FISSURE Playground."
+    },
+    {
+      "folder": "nyc-weather-2026-07-16",
+      "title": "New York daily temperature, three days",
+      "mode": "market_list",
+      "series": "nyc-daily-weather",
+      "resolved_after": "2026-07-16T00:00:00Z",
+      "resolved_before": "2026-07-19T00:00:00Z",
+      "blurb": "The New York daily high temperature buckets for July 16, 17 and 18, 2026: eleven markets per day, one per temperature band."
+    },
+    {
+      "folder": "apple-weekly-2026-06-12",
+      "title": "Apple weekly price buckets",
+      "mode": "market_list",
+      "series": "aapl-neg-risk-weekly",
+      "resolved_after": "2026-06-12T00:00:00Z",
+      "resolved_before": "2026-06-13T00:00:00Z",
+      "blurb": "One week of the Apple closing price buckets (week ending June 12, 2026), one market per price band."
+    }
+  ]
+}

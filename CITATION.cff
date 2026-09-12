@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "Polymarket Historical Data: order book and trade samples from the Marketlens archive"
+type: dataset
+authors:
+  - name: "Marketlens"
+    website: "https://marketlens.trade"
+repository-code: "https://github.com/marketlenstrade/polymarket-historical-data"
+url: "https://marketlens.trade"
+license: CC-BY-4.0
+date-released: 2026-09-12
+keywords:
+  - polymarket
+  - prediction markets
+  - order book
+  - limit order book
+  - market microstructure
+  - backtesting
