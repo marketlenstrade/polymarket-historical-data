@@ -1,0 +1,925 @@
+series,title,category,recurrence,rolling,structured_type,markets,first_market_close,last_market_close
+putin-meets-with-iranian-officials,Putin meets with Iranian officials,,monthly,no,,1,2026-09-01,2026-09-01
+comex-gold-futures-daily-up-or-down,COMEX Gold Futures Daily Up or Down,Commodities,daily,yes,,18,2026-03-02,2026-03-25
+comex-silver-futures-daily-up-or-down,COMEX Silver Futures Daily Up or Down,Commodities,daily,yes,,18,2026-03-02,2026-03-25
+crude-oil-all-time-high,Crude Oil all time high,Commodities,monthly,no,,2,2026-03-31,2026-04-30
+crude-oil-cl-above,Crude Oil (CL) above ___,Commodities,monthly,no,barrier,22,2026-03-31,2026-06-30
+crude-oil-cl-hit,Crude Oil (CL) hit__,Commodities,monthly,no,barrier,224,2026-03-13,2026-10-01
+crude-oil-cl-settle,Crude Oil (CL) settle,Commodities,monthly,no,density,16,2026-03-31,2026-06-30
+gold-daily-up-or-down,GOLD Daily Up or Down,Commodities,daily,yes,,113,2026-03-25,2026-09-14
+gold-hit-price-weekly,Gold Hit Price Weekly,Commodities,weekly,no,barrier,364,2026-04-03,2026-09-18
+hormuz-traffic-returns-to-normal,Hormuz Traffic Returns to Normal,Commodities,monthly,no,,7,2026-08-15,2026-12-31
+hormuz-transits-neg,Hormuz Transits (neg),Commodities,monthly,no,,5,2026-08-31,2026-08-31
+houthis-target-shipping-on,Houthis target shipping on,Commodities,daily,no,,2,2026-09-15,2026-09-30
+natural-gas-daily-up-or-down,NATURAL GAS Daily Up or Down,Commodities,daily,yes,,113,2026-03-25,2026-09-14
+natural-gas-hit-price-weekly,Natural Gas Hit Price Weekly,Commodities,weekly,no,barrier,350,2026-04-03,2026-09-18
+ng-hit-month,(NG) hit Month,Commodities,monthly,no,,13,2026-09-01,2026-09-01
+nymex-crude-oil-futures-wti-daily-up-or-down,NYMEX Crude Oil Futures (WTI) Daily Up or Down,Commodities,daily,yes,,18,2026-03-02,2026-03-25
+oil-daily-up-or-down,OIL Daily Up or Down,Commodities,daily,yes,,113,2026-03-25,2026-09-14
+ships-transit-the-strait-of-hormuz,ships transit the Strait of Hormuz,Commodities,weekly,no,,21,2026-08-16,2026-09-13
+ships-transit-the-strait-of-hormuz-on-any-day, __ ships transit the Strait of Hormuz on any day,Commodities,monthly,no,,5,2026-09-30,2026-09-30
+silver-daily-up-or-down,SILVER Daily Up or Down,Commodities,daily,yes,,113,2026-03-25,2026-09-14
+silver-hit-price-weekly,Silver Hit Price Weekly,Commodities,weekly,no,barrier,370,2026-04-03,2026-09-18
+us-crude-oil-reserves-fall-to,US crude oil reserves fall to __,Commodities,monthly,no,,5,2026-10-07,2026-10-07
+warships,Warships,Commodities,monthly,no,,16,2026-08-31,2026-12-31
+weekly-total-bab-el-mandeb-strait,Weekly total Bab el-Mandeb Strait,Commodities,weekly,no,,10,2026-09-06,2026-09-13
+what-will-gold-gc-hit,What will Gold (GC) hit__,Commodities,monthly,no,barrier,43,2026-03-31,2026-12-31
+what-will-gold-gc-settle-at,What will Gold (GC) settle at,Commodities,monthly,no,density,18,2026-03-31,2026-06-30
+what-will-silver-si-settle-at,What will Silver (SI) settle at,Commodities,monthly,no,density,18,2026-03-31,2026-06-30
+will-silver-si-hit,Will Silver (SI) hit__,Commodities,monthly,no,barrier,41,2026-03-31,2026-06-30
+wti-crude-oil-hit-price-weekly,WTI Crude Oil Hit Price Weekly,Commodities,weekly,no,barrier,347,2026-04-03,2026-09-18
+xagusd-hit-month,(XAGUSD) hit Month,Commodities,monthly,no,,41,2026-09-01,2026-10-01
+xauusd-hit-month,(XAUUSD) hit Month,Commodities,monthly,no,,48,2026-09-01,2026-10-01
+bitcoin-hit-price-daily,Bitcoin Hit Price Daily,Crypto,daily,no,barrier,2828,2026-03-06,2026-09-13
+bitcoin-hit-price-monthly,Bitcoin Hit Price Monthly,Crypto,monthly,no,barrier,207,2026-03-01,2027-01-01
+bitcoin-hit-price-weekly,Bitcoin Hit Price Weekly,Crypto,weekly,no,barrier,430,2026-03-02,2026-09-14
+bitcoin-multi-strikes-hourly,Bitcoin Multi Strikes Hourly,Crypto,hourly,no,survival,58018,2026-03-20,2026-09-12
+bitcoin-neg-risk-weekly,Bitcoin Neg Risk Weekly,Crypto,weekly,no,density,1969,2026-03-01,2026-09-18
+bnb-hit-price-monthly,BNB Hit Price Monthly,Crypto,monthly,no,barrier,79,2026-03-01,2027-01-01
+bnb-up-or-down-15m,BNB Up or Down 15m,Crypto,daily,yes,,16273,2026-03-13,2026-09-12
+bnb-up-or-down-4h,BNB Up or Down 4h,Crypto,daily,yes,,1031,2026-03-13,2026-09-12
+bnb-up-or-down-5m,BNB Up or Down 5m,Crypto,daily,yes,,48367,2026-03-13,2026-09-12
+bnb-up-or-down-daily,BNB Up or Down Daily,Crypto,daily,yes,,179,2026-03-09,2026-09-13
+bnb-up-or-down-hourly,BNB Up or Down Hourly,Crypto,daily,yes,,4177,2026-03-08,2026-09-12
+btc-multi-strikes-weekly,BTC Multi Strikes Weekly,Crypto,daily,no,survival,2129,2026-02-28,2026-09-18
+btc-up-or-down-15m,BTC Up or Down 15m,Crypto,15m,yes,,17599,2026-02-28,2026-09-12
+btc-up-or-down-4h,BTC Up or Down 4h,Crypto,daily,yes,,1119,2026-02-28,2026-09-12
+btc-up-or-down-5m,BTC Up or Down 5m,Crypto,5m,yes,,52289,2026-02-28,2026-09-12
+btc-up-or-down-daily,BTC Up or Down Daily,Crypto,daily,yes,,189,2026-02-28,2026-09-13
+btc-up-or-down-hourly,BTC Up or Down Hourly,Crypto,hourly,yes,,4446,2026-02-28,2026-09-12
+chainlink-hit-price-monthly,Chainlink Hit Price Monthly,Crypto,monthly,no,barrier,77,2026-04-01,2026-10-01
+doge-up-or-down-15m,DOGE Up or Down 15m,Crypto,daily,yes,,16215,2026-03-13,2026-09-12
+doge-up-or-down-4h,DOGE Up or Down 4h,Crypto,daily,yes,,1029,2026-03-13,2026-09-12
+doge-up-or-down-5m,DOGE Up or Down 5m,Crypto,daily,yes,,48344,2026-03-13,2026-09-12
+doge-up-or-down-hourly,DOGE Up or Down Hourly,Crypto,daily,yes,,4115,2026-03-13,2026-09-12
+dogecoin-hit-price-monthly,Dogecoin Hit Price Monthly,Crypto,monthly,no,barrier,30,2026-04-01,2026-10-01
+dogecoin-up-or-down-daily,Dogecoin Up or Down Daily,Crypto,daily,yes,,176,2026-03-13,2026-09-13
+eth-up-or-down-15m,ETH Up or Down 15m,Crypto,15m,yes,,17595,2026-02-28,2026-09-12
+eth-up-or-down-4h,ETH Up or Down 4h,Crypto,daily,yes,,1118,2026-02-28,2026-09-12
+eth-up-or-down-5m,ETH Up or Down 5m,Crypto,5m,yes,,52344,2026-02-28,2026-09-12
+eth-up-or-down-daily,ETH Up or Down Daily,Crypto,daily,yes,,189,2026-02-28,2026-09-13
+eth-up-or-down-hourly,ETH Up or Down Hourly,Crypto,hourly,yes,,4433,2026-02-28,2026-09-12
+ethena-hit-price-monthly,Ethena Hit Price Monthly,Crypto,monthly,no,barrier,68,2026-04-01,2026-10-01
+ethereum-hit-price-daily,Ethereum Hit Price Daily,Crypto,daily,no,barrier,2473,2026-03-10,2026-09-13
+ethereum-hit-price-monthly,Ethereum Hit Price Monthly,Crypto,monthly,no,barrier,194,2026-04-01,2027-01-01
+ethereum-hit-price-weekly,Ethereum Hit Price Weekly,Crypto,weekly,no,barrier,422,2026-03-02,2026-09-14
+ethereum-multi-strikes-hourly,Ethereum Multi Strikes Hourly,Crypto,hourly,no,survival,49090,2026-03-20,2026-09-12
+ethereum-multi-strikes-weekly,Ethereum Multi Strikes Weekly,Crypto,daily,no,survival,2100,2026-02-28,2026-09-18
+ethereum-neg-risk-weekly,Ethereum Neg Risk Weekly,Crypto,weekly,no,density,2054,2026-02-28,2026-09-18
+hype-up-or-down-15m,HYPE Up or Down 15m,Crypto,daily,yes,,16274,2026-03-13,2026-09-12
+hype-up-or-down-4h,HYPE Up or Down 4h,Crypto,daily,yes,,1030,2026-03-13,2026-09-12
+hype-up-or-down-5m,HYPE Up or Down 5m,Crypto,daily,yes,,48371,2026-03-13,2026-09-12
+hype-up-or-down-daily,HYPE Up or Down Daily,Crypto,daily,yes,,180,2026-03-09,2026-09-13
+hype-up-or-down-hourly,HYPE Up or Down Hourly,Crypto,daily,yes,,4204,2026-03-08,2026-09-12
+hyperliquid-hit-price-monthly,Hyperliquid Hit Price Monthly,Crypto,monthly,no,barrier,108,2026-04-01,2027-01-01
+lighter-hit-price-monthly,Lighter Hit Price Monthly,Crypto,monthly,no,barrier,3,2027-01-01,2027-01-01
+mstr-weeklies,MSTR weeklies,Crypto,weekly,no,,1,2026-09-01,2026-09-01
+sol-up-or-down-15m,SOL Up or Down 15m,Crypto,15m,yes,,17595,2026-02-28,2026-09-12
+sol-up-or-down-4h,SOL Up or Down 4H,Crypto,daily,yes,,1119,2026-02-28,2026-09-12
+sol-up-or-down-5m,SOL Up or Down 5m,Crypto,5m,yes,,52335,2026-02-28,2026-09-12
+solana-hit-price-daily,Solana Hit Price Daily,Crypto,daily,no,barrier,1768,2026-03-10,2026-09-13
+solana-hit-price-monthly,Solana Hit Price Monthly,Crypto,monthly,no,barrier,134,2026-04-01,2027-01-01
+solana-hit-price-weekly,Solana Hit Price Weekly,Crypto,weekly,no,barrier,415,2026-03-02,2026-09-14
+solana-multi-strikes-weekly,Solana Multi Strikes Weekly,Crypto,daily,no,survival,2094,2026-02-28,2026-09-18
+solana-neg-risk-weekly,Solana Neg Risk Weekly,Crypto,weekly,no,density,2075,2026-02-28,2026-09-18
+solana-up-or-down-daily,Solana Up or Down Daily,Crypto,daily,yes,,189,2026-02-28,2026-09-13
+solana-up-or-down-hourly,Solana Up or Down Hourly,Crypto,hourly,yes,,4388,2026-02-28,2026-09-12
+strc-hits-100-by,STRC Hits 100 By,Crypto,monthly,no,,2,2026-09-30,2026-12-31
+xrp-hit-price-daily,XRP Hit Price Daily,Crypto,daily,no,barrier,1768,2026-03-10,2026-09-13
+xrp-hit-price-monthly,XRP Hit Price Monthly,Crypto,monthly,no,barrier,129,2026-04-01,2027-01-01
+xrp-hit-price-weekly,XRP Hit Price Weekly,Crypto,weekly,no,barrier,422,2026-03-02,2026-09-14
+xrp-multi-strikes-weekly,XRP Multi Strikes Weekly,Crypto,daily,no,survival,2108,2026-02-28,2026-09-18
+xrp-neg-risk-weekly,XRP Neg Risk Weekly,Crypto,weekly,no,density,2083,2026-02-28,2026-09-18
+xrp-up-or-down-15m,XRP Up or Down 15m,Crypto,15m,yes,,17597,2026-02-28,2026-09-12
+xrp-up-or-down-4h,XRP Up or Down 4H,Crypto,daily,yes,,1119,2026-02-28,2026-09-12
+xrp-up-or-down-5m,XRP Up or Down 5m,Crypto,5m,yes,,52321,2026-02-28,2026-09-12
+xrp-up-or-down-daily,XRP Up or Down Daily,Crypto,daily,yes,,189,2026-02-28,2026-09-13
+xrp-up-or-down-hourly,XRP Up or Down Hourly,Crypto,hourly,yes,,4408,2026-02-28,2026-09-12
+zec-up-or-down-15m,ZEC Up or Down 15m,Crypto,15m,yes,,3516,2026-08-04,2026-09-12
+zec-up-or-down-4h,ZEC Up or Down 4h,Crypto,daily,yes,,223,2026-08-05,2026-09-12
+zec-up-or-down-5m,ZEC Up or Down 5m,Crypto,5m,yes,,10308,2026-08-04,2026-09-12
+1-paid-app,#1 Paid App,Culture,weekly,no,,13,2026-08-28,2026-08-28
+1-us-netflix-movie,#1 US Netflix Movie,Culture,weekly,no,,10,2026-09-01,2026-09-01
+1-us-netflix-show,#1 US Netflix Show,Culture,weekly,no,,14,2026-08-18,2026-08-18
+2-netflix-movie,#2 Netflix Movie,Culture,weekly,no,,22,2026-09-08,2026-09-08
+2-netflix-show,#2 Netflix Show,Culture,weekly,no,,22,2026-09-08,2026-09-08
+2-us-netflix-movie,#2 US Netflix Movie,Culture,weekly,no,,10,2026-09-01,2026-09-01
+2-us-netflix-show,#2 US Netflix Show,Culture,weekly,no,,14,2026-08-18,2026-08-18
+big-brother-weekly-elimination,Big Brother Weekly Elimination,Culture,weekly,no,,12,2026-08-20,2026-08-20
+biggest-opening-weekend,Biggest Opening Weekend,Culture,annual,no,,39,2026-12-31,2026-12-31
+box-office-openings,Box Office Openings,Culture,weekly,no,,82,2026-08-16,2026-09-13
+box-office-total-gross,Box Office Total Gross,Culture,monthly,no,,29,2026-08-31,2026-10-01
+elon-tweet-daily,elon tweet daily,Culture,monthly,no,,107,2026-09-01,2026-11-01
+elon-tweets,Elon Tweets,Culture,weekly,no,,281,2026-08-18,2026-09-22
+elon-tweets-48h,Elon Tweets 48H,Culture,daily,no,,149,2026-08-15,2026-09-14
+gta-vi-extended-look-views,GTA VI Extended Look Views,Culture,daily,no,,28,2026-08-27,2026-09-03
+highest-grossing-movie,Highest Grossing Movie,Culture,annual,no,,28,2026-12-31,2026-12-31
+jesus-christ-return,Jesus Christ return,Culture,annual,no,,1,2026-12-31,2026-12-31
+movie-delay,Movie Delay,Culture,monthly,no,,1,2027-12-17,2027-12-17
+mrbeast-gaming-views,MrBeast Gaming Views,Culture,monthly,no,,16,2026-08-23,2026-09-05
+mrbeast-views-day-1,MrBeast views day 1,Culture,weekly,no,,14,2026-08-25,2026-09-06
+mrbeast-views-week-1,MrBeast views week 1,Culture,weekly,no,,21,2026-08-15,2026-09-12
+richest-person,Richest person,Culture,monthly,no,,37,2026-12-31,2026-12-31
+spacex-starship-flight-test,SpaceX Starship Flight Test,Culture,monthly,no,,11,2026-08-22,2027-06-30
+starmer-pmqs,Starmer PMQs,Culture,annual,no,,15,2026-08-26,2026-08-26
+trump-declassifies-ufo,Trump Declassifies UFO,Culture,annual,no,,2,2026-09-16,2026-10-01
+trump-insult-on,Trump insult on,Culture,daily,no,,9,2026-08-24,2026-09-01
+trump-praise,Trump Praise,Culture,monthly,no,,26,2026-08-31,2026-09-30
+who-trump-insult,Who Trump insult,Culture,monthly,no,,37,2026-09-30,2026-09-30
+10-year-treasur,10-year Treasur,Economy,weekly,no,,11,2026-09-30,2026-12-31
+3rd-largest-company,3rd largest company,Economy,monthly,no,,58,2026-08-31,2026-09-30
+bank-of-brazil-decision,Bank of Brazil decision,Economy,annual,no,density,19,2026-03-17,2026-09-15
+bank-of-canada-decision,Bank of Canada decision,Economy,annual,no,density,22,2026-03-18,2026-09-02
+bank-of-england-decision,Bank of England decision,Economy,annual,no,density,23,2026-03-19,2026-09-17
+bank-of-israel-decision,Bank of Israel Decision,Economy,annual,no,density,17,2026-03-30,2026-09-01
+bank-of-japan,Bank of Japan,Economy,annual,no,density,22,2026-03-19,2026-09-18
+bank-of-korea-decision,Bank of Korea decision,Economy,annual,no,density,14,2026-04-10,2026-08-26
+bank-of-mexico-decision,Bank of Mexico Decision,Economy,annual,no,density,16,2026-03-26,2026-09-24
+bank-of-russia-decision,Bank of Russia Decision,Economy,annual,no,density,15,2026-03-20,2026-09-11
+bonbast,Bonbast ,Economy,monthly,no,,7,2026-08-31,2026-08-31
+core-cpi-mom,Core CPI MoM,Economy,monthly,no,,7,2026-09-11,2026-09-11
+ecb-interest-rates,ECB Interest Rates,Economy,annual,no,density,23,2026-03-19,2026-09-10
+fed-3-parlay,Fed 3-Parlay,Economy,daily,no,,3,2026-09-16,2026-09-16
+fed-emergency-rate-cut,Fed Emergency Rate Cut,Economy,annual,no,,1,2027-01-01,2027-01-01
+fed-rate-hike,Fed Rate Hike,Economy,annual,no,,3,2026-12-09,2026-12-09
+fomc,FOMC,Economy,monthly,no,density,23,2026-03-18,2026-09-16
+gdp-quarterly,gdp quarterly,Economy,monthly,no,density,14,2026-04-30,2026-07-30
+largest-company,Largest Company,Economy,monthly,no,,82,2026-08-31,2026-12-31
+median-home-price-austin,Median Home Price Austin,Economy,monthly,no,,7,2026-09-30,2026-09-30
+median-home-price-us,Median Home Price US,Economy,monthly,no,,7,2026-09-30,2026-09-30
+second-largest-company,Second Largest Company,Economy,monthly,no,,58,2026-08-31,2026-09-30
+us-annual-inflation,US Annual Inflation ,Economy,monthly,no,density,84,2026-03-11,2026-09-11
+us-monthly-inflation,US Monthly Inflation,Economy,monthly,no,density,56,2026-03-11,2026-09-11
+aal-earnings,AAL Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+aapl-earnings,AAPL Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+aapl-multi-strikes-weekly,AAPL Multi Strikes Weekly,Equities,daily,no,survival,16,2026-03-02,2026-03-10
+aapl-neg-risk-weekly,AAPL Neg Risk Weekly,Equities,weekly,no,density,289,2026-03-06,2026-09-18
+abnb-daily-up-or-down,ABNB Daily Up or Down,Equities,daily,yes,,114,2026-03-25,2026-09-14
+abnb-earnings,ABNB Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+acm-earnings,ACM Earnings,Equities,monthly,no,,1,2026-08-10,2026-08-10
+acn-earnings,ACN Earnings,Equities,monthly,no,,1,2026-06-18,2026-06-18
+adbe-earnings,ADBE Earnings,Equities,monthly,no,,3,2026-03-12,2026-09-10
+adi-earnings,ADI Earnings,Equities,monthly,no,,1,2026-08-19,2026-08-19
+adsk-earnings,ADSK Earnings,Equities,monthly,no,,2,2026-05-28,2026-08-27
+aeo-earnings,AEO Earnings,Equities,monthly,no,,2,2026-03-04,2026-09-02
+afl-earnings,AFL Earnings,Equities,daily,no,,1,2026-08-06,2026-08-06
+airbnb-hit-price-monthly,Airbnb Hit Price Monthly,Equities,monthly,no,barrier,119,2026-05-01,2026-10-01
+airbnb-hit-price-weekly,Airbnb Hit Price Weekly,Equities,weekly,no,barrier,374,2026-04-03,2026-09-18
+akam-earnings,AKAM Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+all-earnings,ALL Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+ally-earnings,ALLY Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+amat-earnings,AMAT Earnings,Equities,monthly,no,,1,2026-08-13,2026-08-13
+amazon-hit-price-monthly,Amazon Hit Price Monthly,Equities,monthly,no,barrier,9,2026-04-01,2026-04-01
+amazon-hit-price-weekly,Amazon Hit Price Weekly,Equities,weekly,no,barrier,359,2026-04-03,2026-09-18
+amazon-multi-strikes-monthly,Amazon Multi Strikes Monthly,Equities,monthly,no,survival,7,2026-03-31,2026-03-31
+amazon-multi-strikes-weekly,Amazon Multi Strikes Weekly,Equities,weekly,no,survival,30,2026-03-06,2026-03-20
+amd-earnings,AMD Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+ampl-earnings,AMPL Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+amzn-earnings,AMZN Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+amzn-multi-strikes-weekly,AMZN Multi Strikes Weekly,Equities,daily,no,survival,18,2026-03-02,2026-03-10
+amzn-neg-risk-weekly,AMZN Neg Risk Weekly,Equities,weekly,no,density,289,2026-03-06,2026-09-18
+anf-earnings,ANF Earnings,Equities,monthly,no,,3,2026-03-04,2026-08-26
+apo-earnings,APO Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+app-earnings,APP Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+apple-hit-price-monthly,Apple Hit Price Monthly,Equities,monthly,no,barrier,107,2026-05-01,2026-10-01
+apple-hit-price-weekly,Apple Hit Price Weekly,Equities,weekly,no,barrier,367,2026-04-03,2026-09-18
+apple-multi-strikes-monthly,Apple Multi Strikes Monthly,Equities,monthly,no,survival,7,2026-03-31,2026-03-31
+apple-multi-strikes-weekly,Apple Multi Strikes Weekly,Equities,weekly,no,survival,25,2026-03-06,2026-03-20
+aptv-earnings,APTV Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+arcc-earnings,ARCC Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+ares-earnings,ARES Earnings,Equities,monthly,no,,1,2026-07-31,2026-07-31
+arm-earnings,ARM Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+as-earnings,AS Earnings,Equities,monthly,no,,1,2026-08-18,2026-08-18
+asan-earnings,ASAN Earnings,Equities,monthly,no,,1,2026-09-03,2026-09-03
+aso-earnings,ASO Earnings,Equities,monthly,no,,3,2026-03-17,2026-09-01
+ato-earnings,ATO Earnings,Equities,daily,no,,1,2026-08-05,2026-08-05
+avgo-earnings,AVGO Earnings,Equities,monthly,no,,2,2026-06-03,2026-09-02
+axp-earnings,AXP Earnings,Equities,monthly,no,,1,2026-07-24,2026-07-24
+azo-earnings,AZO Earnings,Equities,monthly,no,,2,2026-03-03,2026-09-22
+ba-earnings,BA Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+baba-earnings,BABA Earnings,Equities,monthly,no,,1,2026-08-20,2026-08-20
+bac-earnings,BAC Earnings,Equities,monthly,no,,1,2026-07-14,2026-07-14
+bbby-earnings,BBBY Earnings,Equities,annual,no,,1,2026-07-27,2026-07-27
+bbw-earnings,BBW Earnings,Equities,monthly,no,,2,2026-03-12,2026-08-27
+bbwi-earnings,BBWI Earnings,Equities,monthly,no,,3,2026-03-04,2026-08-26
+bby-earnings,BBY Earnings,Equities,monthly,no,,2,2026-05-28,2026-08-27
+ben-earnings,BEN Earnings,Equities,monthly,no,,1,2026-07-31,2026-07-31
+bfc-earnings,BFC Earnings,Equities,monthly,no,,1,2026-07-17,2026-07-17
+bgc-earnings,BGC Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+bj-earnings,BJ Earnings,Equities,monthly,no,,1,2026-08-21,2026-08-21
+bkng-earnings,BKNG Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+blk-earnings,BLK Earnings,Equities,monthly,no,,1,2026-07-14,2026-07-14
+blsh-earnings,BLSH Earnings,Equities,monthly,no,,1,2026-08-13,2026-08-13
+box-earnings,BOX Earnings,Equities,monthly,no,,1,2026-08-25,2026-08-25
+brze-earnings,BRZE Earnings,Equities,monthly,no,,2,2026-05-27,2026-09-08
+bud-earnings,BUD Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+burl-earnings,BURL Earnings,Equities,monthly,no,,2,2026-05-28,2026-08-27
+bx-earnings,BX Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+bynd-earnings,BYND Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+bzfd-earnings,BZFD Earnings,Equities,monthly,no,,1,2026-03-12,2026-03-12
+c-earnings,C Earnings,Equities,monthly,no,,1,2026-07-14,2026-07-14
+cag-earnings,CAG Earnings,Equities,monthly,no,,2,2026-04-01,2026-07-15
+casy-earnings,CASY Earnings,Equities,monthly,no,,3,2026-03-09,2026-09-08
+cat-earnings,CAT Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+cboe-earnings,CBOE Earnings,Equities,monthly,no,,1,2026-07-31,2026-07-31
+cbre-earnings,CBRE Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+cbrl-earnings,CBRL Earnings,Equities,monthly,no,,2,2026-06-04,2026-09-14
+cbt-earnings,CBT Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+ccl-earnings,CCL Earnings,Equities,monthly,no,,1,2026-06-22,2026-06-22
+celh-earnings,CELH Earnings,Equities,daily,no,,1,2026-08-06,2026-08-06
+cfg-earnings,CFG Earnings,Equities,monthly,no,,1,2026-07-16,2026-07-16
+chgg-earnings,CHGG Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+chwy-earnings,CHWY Earnings,Equities,monthly,no,,3,2026-03-25,2026-09-09
+chym-earnings,CHYM Earnings,Equities,daily,no,,1,2026-08-05,2026-08-05
+ci-earnings,CI Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+cl-earnings,CL Earnings,Equities,monthly,no,,1,2026-07-31,2026-07-31
+clx-earnings,CLX Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+cme-earnings,CME Earnings,Equities,monthly,no,,1,2026-07-22,2026-07-22
+cmg-earnings,CMG Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+cof-earnings,COF Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+coin-daily-up-or-down,COIN Daily Up or Down,Equities,daily,yes,,131,2026-03-02,2026-09-14
+coin-earnings,COIN Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+coinbase-hit-price-weekly,Coinbase Hit Price Weekly,Equities,weekly,no,barrier,387,2026-04-03,2026-09-18
+cop-earnings,COP Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+cost-earnings,COST Earnings,Equities,monthly,no,,2,2026-05-28,2026-09-24
+cour-earnings,COUR Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+cpb-earnings,CPB Earnings,Equities,monthly,no,,2,2026-06-08,2026-09-03
+crcl-earnings,CRCL Earnings,Equities,daily,no,,1,2026-08-05,2026-08-05
+crl-earnings,CRL Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+crm-earnings,CRM Earnings,Equities,annual,no,,2,2026-05-27,2026-08-26
+crsp-earnings,CRSP Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+crwd-earnings,CRWD Earnings,Equities,monthly,no,,3,2026-03-03,2026-08-26
+csco-earnings,CSCO Earnings,Equities,monthly,no,,1,2026-08-12,2026-08-12
+csgp-earnings,CSGP Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+ctas-earnings,CTAS Earnings,Equities,monthly,no,,3,2026-03-25,2026-09-23
+cvna-earnings,CVNA Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+cvs-earnings,CVS Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+cvx-earnings,CVX Earnings,Equities,monthly,no,,1,2026-07-31,2026-07-31
+cxm-earnings,CXM Earnings,Equities,monthly,no,,3,2026-03-11,2026-09-02
+czr-earnings,CZR Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+dash-earnings,DASH Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+dax-hit-price-monthly,DAX Hit Price Monthly,Equities,monthly,no,barrier,11,2026-04-01,2026-04-01
+dbi-earnings,DBI Earnings,Equities,monthly,no,,2,2026-06-09,2026-09-10
+dbx-earnings,DBX Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+dd-earnings,DD Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+ddog-earnings,DDOG Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+de-earnings,DE Earnings,Equities,monthly,no,,1,2026-08-20,2026-08-20
+dell-earnings,DELL Earnings,Equities,monthly,no,,2,2026-05-28,2026-09-01
+dg-earnings,DG Earnings,Equities,monthly,no,,2,2026-06-02,2026-08-27
+dis-earnings,DIS Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+dji-hit-price-monthly,DJI Hit Price Monthly,Equities,monthly,no,barrier,8,2026-04-01,2026-04-01
+dkng-earnings,DKNG Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+dks-earnings,DKS Earnings,Equities,monthly,no,,2,2026-05-27,2026-08-25
+dlb-earnings,DLB Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+dltr-earnings,DLTR Earnings,Equities,monthly,no,,3,2026-03-16,2026-08-27
+dnut-earnings,DNUT Earnings,Equities,daily,no,,1,2026-08-06,2026-08-06
+docu-earnings,DOCU Earnings,Equities,monthly,no,,3,2026-03-17,2026-09-03
+dow-earnings,DOW Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+dpz-earnings,DPZ Earnings,Equities,annual,no,,1,2026-07-20,2026-07-20
+dxy-daily-up-or-down,DXY Daily Up or Down,Equities,daily,yes,,19,2026-08-18,2026-09-14
+dxy-hit-price-monthly,DXY Hit Price Monthly,Equities,monthly,no,barrier,23,2026-09-30,2026-09-30
+dxy-hit-price-weekly,DXY Hit Price Weekly,Equities,weekly,no,barrier,118,2026-08-21,2026-09-18
+dy-earnings,DY Earnings,Equities,monthly,no,,1,2026-08-19,2026-08-19
+ea-earnings,EA Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+ebay-earnings,EBAY Earnings,Equities,annual,no,,1,2026-07-29,2026-07-29
+ed-earnings,ED Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+efx-earnings,EFX Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+el-earnings,EL Earnings,Equities,monthly,no,,1,2026-08-19,2026-08-19
+etor-earnings,ETOR Earnings,Equities,daily,no,,1,2026-08-11,2026-08-11
+etsy-earnings,ETSY Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+ewy-daily-up-or-down,EWY Daily Up or Down,Equities,daily,yes,,114,2026-03-25,2026-09-14
+ewy-hit-price-weekly,EWY Hit Price Weekly,Equities,weekly,no,barrier,391,2026-04-03,2026-09-18
+expe-earnings,EXPE Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+f-earnings,F Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+fcn-earnings,FCN Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+fds-earnings,FDS Earnings,Equities,monthly,no,,1,2026-03-31,2026-03-31
+fdx-earnings,FDX Earnings,Equities,monthly,no,,1,2026-09-16,2026-09-16
+fig-earnings,FIG Earnings,Equities,daily,no,,1,2026-08-05,2026-08-05
+fis-earnings,FIS Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+five-earnings,FIVE Earnings,Equities,monthly,no,,2,2026-06-03,2026-08-26
+flut-earnings,FLUT Earnings,Equities,daily,no,,1,2026-08-06,2026-08-06
+fnf-earnings,FNF Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+foxa-earnings,FOXA Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+fro-earnings,FRO Earnings,Equities,monthly,no,,1,2026-05-29,2026-05-29
+ftdr-earnings,FTDR Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+gamb-earnings,GAMB Earnings,Equities,monthly,no,,1,2026-03-12,2026-03-12
+gap-earnings,GAP Earnings,Equities,monthly,no,,1,2026-08-27,2026-08-27
+gd-earnings,GD Earnings,Equities,monthly,no,,1,2026-07-22,2026-07-22
+gety-earnings,GETY Earnings,Equities,monthly,no,,2,2026-03-16,2026-08-10
+gis-earnings,GIS Earnings,Equities,monthly,no,,1,2026-09-15,2026-09-15
+gme-earnings,GME Earnings,Equities,monthly,no,,3,2026-03-24,2026-09-08
+googl-earnings,GOOGL Earnings,Equities,monthly,no,,1,2026-07-22,2026-07-22
+googl-multi-strikes-weekly,GOOGL Multi Strikes Weekly,Equities,daily,no,survival,21,2026-03-02,2026-03-10
+googl-neg-risk-weekly,GOOGL Neg Risk Weekly,Equities,weekly,no,density,289,2026-03-06,2026-09-18
+google-hit-price-monthly,Google Hit Price Monthly,Equities,monthly,no,barrier,6,2026-04-01,2026-04-01
+google-hit-price-weekly,Google Hit Price Weekly,Equities,weekly,no,barrier,355,2026-04-03,2026-09-18
+google-multi-strikes-monthly,Google Multi Strikes Monthly,Equities,monthly,no,survival,9,2026-03-31,2026-03-31
+google-multi-strikes-weekly,Google Multi Strikes Weekly,Equities,weekly,no,survival,25,2026-03-06,2026-03-20
+grab-earnings,GRAB Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+grmn-earnings,GRMN Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+grpn-earnings,GRPN Earnings,Equities,monthly,no,,2,2026-03-10,2026-08-05
+gs-earnings,GS Earnings,Equities,monthly,no,,1,2026-07-14,2026-07-14
+gt-earnings,GT Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+gtlb-earnings,GTLB Earnings,Equities,monthly,no,,2,2026-06-02,2026-09-01
+gtm-earnings,GTM Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+h-earnings,H Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+hal-earnings,HAL Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+has-earnings,HAS Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+hd-earnings,HD Earnings,Equities,monthly,no,,1,2026-08-18,2026-08-18
+hesm-earnings,HESM Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+hgv-earnings,HGV Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+hims-earnings,HIMS Earnings,Equities,annual,no,,1,2026-08-10,2026-08-10
+hlt-earnings,HLT Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+hnge-earnings,HNGE Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+hog-earnings,HOG Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+hon-earnings,HON Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+hood-daily-up-or-down,HOOD Daily Up or Down,Equities,daily,yes,,130,2026-03-02,2026-09-14
+hood-earnings,HOOD Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+hpe-earnings,HPE Earnings,Equities,monthly,no,,3,2026-03-09,2026-09-02
+hpq-earnings,HPQ Earnings,Equities,monthly,no,,2,2026-05-27,2026-08-26
+hsi-hit-price-monthly,HSI Hit Price Monthly,Equities,monthly,no,barrier,10,2026-04-01,2026-04-01
+htz-earnings,HTZ Earnings,Equities,daily,no,,1,2026-08-06,2026-08-06
+hubs-earnings,HUBS Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+hum-earnings,HUM Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+iart-earnings,IART Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+ibkr-earnings,IBKR Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+ibm-earnings,IBM Earnings,Equities,monthly,no,,1,2026-07-22,2026-07-22
+ice-earnings,ICE Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+icui-earnings,ICUI Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+imax-earnings,IMAX Earnings,Equities,annual,no,,1,2026-07-23,2026-07-23
+infy-earnings,INFY Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+intc-earnings,INTC Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+intu-earnings,INTU Earnings,Equities,monthly,no,,1,2026-08-25,2026-08-25
+ionq-earnings,IONQ Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+iot-earnings,IOT Earnings,Equities,monthly,no,,2,2026-06-04,2026-09-03
+ivz-earnings,IVZ Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+jblu-earnings,JBLU Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+jnj-earnings,JNJ Earnings,Equities,monthly,no,,1,2026-07-15,2026-07-15
+jpm-earnings,JPM Earnings,Equities,monthly,no,,1,2026-07-14,2026-07-14
+kbh-earnings,KBH Earnings,Equities,monthly,no,,1,2026-09-22,2026-09-22
+key-earnings,KEY Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+kfy-earnings,KFY Earnings,Equities,monthly,no,,2,2026-03-10,2026-09-08
+khc-earnings,KHC Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+kkr-earnings,KKR Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+kmi-earnings,KMI Earnings,Equities,monthly,no,,1,2026-07-15,2026-07-15
+kmx-earnings,KMX Earnings,Equities,monthly,no,,1,2026-06-17,2026-06-17
+ko-earnings,KO Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+kr-earnings,KR Earnings,Equities,monthly,no,,3,2026-03-05,2026-09-11
+kss-earnings,KSS Earnings,Equities,monthly,no,,2,2026-03-10,2026-08-26
+len-earnings,LEN Earnings,Equities,monthly,no,,2,2026-06-11,2026-09-16
+lh-earnings,LH Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+lly-earnings,LLY Earnings,Equities,daily,no,,1,2026-08-05,2026-08-05
+lmt-earnings,LMT Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+low-earnings,LOW Earnings,Equities,annual,no,,1,2026-08-19,2026-08-19
+lulu-earnings,LULU Earnings,Equities,monthly,no,,3,2026-03-17,2026-09-03
+lw-earnings,LW Earnings,Equities,monthly,no,,2,2026-04-01,2026-07-24
+lzb-earnings,LZB Earnings,Equities,monthly,no,,2,2026-06-16,2026-08-18
+m-earnings,M Earnings,Equities,monthly,no,,3,2026-03-18,2026-09-10
+ma-earnings,MA Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+mar-earnings,MAR Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+mbwm-earnings,MBWM Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+mcd-earnings,MCD Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+mchp-earnings,MCHP Earnings,Equities,daily,no,,1,2026-08-06,2026-08-06
+mco-earnings,MCO Earnings,Equities,monthly,no,,1,2026-07-22,2026-07-22
+mdb-earnings,MDB Earnings,Equities,monthly,no,,2,2026-05-28,2026-09-01
+met-earnings,MET Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+meta-earnings,META Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+meta-hit-price-monthly,Meta Hit Price Monthly,Equities,monthly,no,barrier,97,2026-05-01,2026-10-01
+meta-hit-price-weekly,Meta Hit Price Weekly,Equities,weekly,no,barrier,368,2026-04-03,2026-09-18
+meta-multi-strikes-daily,META Multi Strikes Daily,Equities,daily,no,survival,95,2026-08-18,2026-09-14
+meta-multi-strikes-monthly,Meta Multi Strikes Monthly,Equities,monthly,no,survival,11,2026-03-31,2026-03-31
+meta-multi-strikes-weekly,Meta Multi Strikes Weekly,Equities,weekly,no,survival,41,2026-03-02,2026-03-20
+meta-neg-risk-weekly,META Neg Risk Weekly,Equities,weekly,no,density,290,2026-03-06,2026-09-18
+mgm-earnings,MGM Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+micron-hit-price-monthly,Micron Hit Price Monthly,Equities,monthly,no,barrier,50,2026-08-01,2026-10-01
+micron-hit-price-weekly,Micron Hit Price Weekly,Equities,weekly,no,barrier,226,2026-06-05,2026-09-18
+micron-multi-strikes-monthly,Micron Multi Strikes Monthly,Equities,monthly,no,survival,52,2026-06-30,2026-09-30
+micron-multi-strikes-weekly,Micron Multi Strikes Weekly,Equities,weekly,no,survival,195,2026-06-05,2026-09-18
+microsoft-hit-price-monthly,Microsoft Hit Price Monthly,Equities,monthly,no,barrier,107,2026-05-01,2026-10-01
+microsoft-hit-price-weekly,Microsoft Hit Price Weekly,Equities,weekly,no,barrier,358,2026-04-03,2026-09-18
+microsoft-multi-strikes-monthly,Microsoft Multi Strikes Monthly,Equities,monthly,no,survival,2,2026-03-31,2026-03-31
+microsoft-multi-strikes-weekly,Microsoft Multi Strikes Weekly,Equities,weekly,no,survival,22,2026-03-06,2026-03-20
+mktx-earnings,MKTX Earnings,Equities,daily,no,,1,2026-08-07,2026-08-07
+mmm-earnings,MMM Earnings,Equities,monthly,no,,1,2026-07-17,2026-07-17
+mnst-earnings,MNST Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+mpc-earnings,MPC Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+mrk-earnings,MRK Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+mrna-earnings,MRNA Earnings,Equities,monthly,no,,1,2026-07-31,2026-07-31
+mrvl-earnings,MRVL Earnings,Equities,monthly,no,,2,2026-05-27,2026-08-27
+mrx-earnings,MRX Earnings,Equities,daily,no,,1,2026-08-12,2026-08-12
+ms-earnings,MS Earnings,Equities,monthly,no,,1,2026-07-15,2026-07-15
+msci-earnings,MSCI Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+msft-earnings,MSFT Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+msft-multi-strikes-weekly,MSFT Multi Strikes Weekly,Equities,daily,no,survival,18,2026-03-02,2026-03-10
+msft-neg-risk-weekly,MSFT Neg Risk Weekly,Equities,weekly,no,density,289,2026-03-06,2026-09-18
+msm-earnings,MSM Earnings,Equities,monthly,no,,1,2026-04-01,2026-04-01
+mstr-earnings,MSTR Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+mstr-hit-price-monthly,MSTR Hit Price Monthly,Equities,monthly,no,barrier,45,2026-09-01,2026-10-01
+mstr-hit-price-weekly,MSTR Hit Price Weekly,Equities,weekly,no,barrier,168,2026-07-10,2026-09-18
+mtb-earnings,MTB Earnings,Equities,monthly,no,,1,2026-07-15,2026-07-15
+mtn-earnings,MTN Earnings,Equities,monthly,no,,1,2026-06-08,2026-06-08
+mu-daily-up-or-down,MU Daily Up or Down,Equities,daily,yes,,69,2026-05-29,2026-09-14
+mu-neg-risk-weekly,MU Neg Risk Weekly,Equities,weekly,no,density,154,2026-06-05,2026-09-18
+ndx-hit-price-monthly,NDX Hit Price Monthly,Equities,monthly,no,barrier,9,2026-04-01,2026-04-01
+net-earnings,NET Earnings,Equities,daily,no,,1,2026-08-06,2026-08-06
+netflix-hit-price-monthly,Netflix Hit Price Monthly,Equities,monthly,no,barrier,4,2026-04-01,2026-04-01
+netflix-hit-price-weekly,Netflix Hit Price Weekly,Equities,weekly,no,barrier,344,2026-04-03,2026-09-18
+netflix-multi-strikes-monthly,Netflix Multi Strikes Monthly,Equities,monthly,no,survival,1,2026-03-31,2026-03-31
+netflix-multi-strikes-weekly,Netflix Multi Strikes Weekly,Equities,weekly,no,survival,23,2026-03-06,2026-03-20
+nflx-daily-up-or-down,NFLX Daily Up or Down,Equities,daily,yes,,131,2026-03-02,2026-09-14
+nflx-earnings,NFLX Earnings,Equities,monthly,no,,1,2026-07-16,2026-07-16
+nflx-neg-risk-weekly,NFLX Neg Risk Weekly,Equities,weekly,no,density,278,2026-03-06,2026-09-18
+nik-hit-price-monthly,NIK Hit Price Monthly,Equities,monthly,no,barrier,9,2026-04-01,2026-04-01
+nke-earnings,NKE Earnings,Equities,monthly,no,,1,2026-03-31,2026-03-31
+nmax-earnings,NMAX Earnings,Equities,monthly,no,,1,2026-08-13,2026-08-13
+nvda-earnings,NVDA Earnings,Equities,monthly,no,,1,2026-08-26,2026-08-26
+nvda-multi-strikes-weekly,NVDA Multi Strikes Weekly,Equities,daily,no,survival,21,2026-03-02,2026-03-10
+nvda-neg-risk-weekly,NVDA Neg Risk Weekly,Equities,weekly,no,density,289,2026-03-06,2026-09-18
+nvidia-hit-price-monthly,Nvidia Hit Price Monthly,Equities,monthly,no,barrier,9,2026-04-01,2026-04-01
+nvidia-hit-price-weekly,NVIDIA Hit Price Weekly,Equities,weekly,no,barrier,364,2026-04-03,2026-09-18
+nvidia-multi-strikes-monthly,Nvidia Multi Strikes Monthly,Equities,monthly,no,survival,6,2026-03-31,2026-03-31
+nvidia-multi-strikes-weekly,Nvidia Multi Strikes Weekly,Equities,weekly,no,survival,24,2026-03-06,2026-03-20
+nvts-earnings,NVTS Earnings,Equities,monthly,no,,1,2026-07-27,2026-07-27
+nwsa-earnings,NWSA Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+nxpi-earnings,NXPI Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+nya-hit-price-monthly,NYA Hit Price Monthly,Equities,monthly,no,barrier,10,2026-04-01,2026-04-01
+nyt-earnings,NYT Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+okta-earnings,OKTA Earnings,Equities,monthly,no,,3,2026-03-04,2026-08-26
+on-earnings,ON Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+open-daily-up-or-down,OPEN Daily Up or Down,Equities,daily,yes,,131,2026-03-02,2026-09-14
+open-earnings,OPEN Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+open-neg-risk-weekly,OPEN Neg Risk Weekly,Equities,weekly,no,density,275,2026-03-06,2026-09-18
+opendoor-hit-price-monthly,Opendoor Hit Price Monthly,Equities,monthly,no,barrier,84,2026-05-01,2026-10-01
+opendoor-hit-price-weekly,Opendoor Hit Price Weekly,Equities,weekly,no,barrier,340,2026-04-03,2026-09-18
+opendoor-multi-strikes-monthly,Opendoor Multi Strikes Monthly,Equities,monthly,no,survival,2,2026-03-31,2026-03-31
+opendoor-multi-strikes-weekly,Opendoor Multi Strikes Weekly,Equities,weekly,no,survival,24,2026-03-06,2026-03-20
+orcl-earnings,ORCL Earnings,Equities,monthly,no,,3,2026-03-09,2026-09-08
+orly-earnings,ORLY Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+oxy-earnings,OXY Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+pag-earnings,PAG Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+palantir-hit-price-monthly,Palantir Hit Price Monthly,Equities,monthly,no,barrier,115,2026-05-01,2026-10-01
+palantir-hit-price-weekly,Palantir Hit Price Weekly,Equities,weekly,no,barrier,371,2026-04-03,2026-09-18
+palantir-multi-strikes-monthly,Palantir Multi Strikes Monthly,Equities,monthly,no,survival,2,2026-03-31,2026-03-31
+palantir-multi-strikes-weekly,Palantir Multi Strikes Weekly,Equities,weekly,no,survival,18,2026-03-06,2026-03-20
+panw-earnings,PANW Earnings,Equities,monthly,no,,2,2026-06-02,2026-09-01
+payx-earnings,PAYX Earnings,Equities,monthly,no,,2,2026-03-25,2026-09-23
+pcg-earnings,PCG Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+pd-earnings,PD Earnings,Equities,monthly,no,,2,2026-03-12,2026-08-27
+pep-earnings,PEP Earnings,Equities,monthly,no,,1,2026-07-09,2026-07-09
+pfe-earnings,PFE Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+pg-earnings,PG Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+pins-earnings,PINS Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+pipr-earnings,PIPR Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+play-earnings,PLAY Earnings,Equities,monthly,no,,2,2026-06-08,2026-09-14
+plby-earnings,PLBY Earnings,Equities,monthly,no,,2,2026-03-12,2026-08-10
+pltr-daily-up-or-down,PLTR Daily Up or Down,Equities,daily,yes,,131,2026-03-02,2026-09-14
+pltr-earnings,PLTR Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+pltr-neg-risk-weekly,PLTR Neg Risk Weekly,Equities,weekly,no,density,287,2026-03-06,2026-09-18
+pnc-earnings,PNC Earnings,Equities,monthly,no,,1,2026-07-15,2026-07-15
+powl-earnings,POWL Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+psky-earnings,PSKY Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+pton-earnings,PTON Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+pxlw-earnings,PXLW Earnings,Equities,daily,no,,1,2026-08-11,2026-08-11
+pypl-earnings,PYPL Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+pzza-earnings,PZZA Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+qcom-earnings,QCOM Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+qqq-daily-up-or-down,QQQ Daily Up or Down,Equities,daily,yes,,23,2026-03-25,2026-04-27
+qqq-hit-price-weekly,QQQ Hit Price Weekly,Equities,weekly,no,barrier,56,2026-04-03,2026-04-24
+qubt-earnings,QUBT Earnings,Equities,daily,no,,1,2026-08-10,2026-08-10
+rblx-earnings,RBLX Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+rbrk-earnings,RBRK Earnings,Equities,monthly,no,,3,2026-03-12,2026-08-27
+rcl-earnings,RCL Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+rddt-earnings,RDDT Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+real-earnings,REAL Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+rh-earnings,RH Earnings,Equities,monthly,no,,3,2026-04-01,2026-09-10
+rivn-earnings,RIVN Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+rklb-daily-up-or-down,RKLB Daily Up or Down,Equities,daily,yes,,113,2026-03-25,2026-09-14
+rklb-earnings,RKLB Earnings,Equities,monthly,no,,1,2026-08-10,2026-08-10
+rl-earnings,RL Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+robinhood-hit-price-weekly,Robinhood Hit Price Weekly,Equities,weekly,no,barrier,367,2026-04-03,2026-09-18
+rocket-lab-hit-price-monthly,Rocket Lab Hit Price Monthly,Equities,monthly,no,barrier,106,2026-05-01,2026-10-01
+rocket-lab-hit-price-weekly,Rocket Lab Hit Price Weekly,Equities,weekly,no,barrier,358,2026-04-03,2026-09-18
+roku-earnings,ROKU Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+rum-earnings,RUM Earnings,Equities,monthly,no,,2,2026-03-05,2026-08-10
+rut-hit-price-monthly,RUT Hit Price Monthly,Equities,monthly,no,barrier,9,2026-04-01,2026-04-01
+rut-multi-strikes-weekly,RUT Multi Strikes Weekly,Equities,weekly,no,survival,3,2026-03-20,2026-03-20
+sbux-earnings,SBUX Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+schw-earnings,SCHW Earnings,Equities,monthly,no,,1,2026-07-21,2026-07-21
+sg-earnings,SG Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+shak-earnings,SHAK Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+sjm-earnings,SJM Earnings,Equities,monthly,no,,2,2026-06-09,2026-08-26
+skhy-hit-price-monthly,SK hynix Hit Price Monthly,Equities,monthly,no,barrier,34,2026-10-01,2026-10-01
+skhy-hit-price-weekly,SK hynix Hit Price Weekly,Equities,weekly,no,barrier,109,2026-08-21,2026-09-18
+smtc-earnings,SMTC Earnings,Equities,monthly,no,,1,2026-08-24,2026-08-24
+sndk-earnings,SNDK Earnings,Equities,daily,no,,1,2026-08-05,2026-08-05
+snex-earnings,SNEX Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+snow-earnings,SNOW Earnings,Equities,annual,no,,2,2026-05-27,2026-09-02
+sofi-earnings,SOFI Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+sono-earnings,SONO Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+soun-earnings,SOUN Earnings,Equities,daily,no,,1,2026-08-05,2026-08-05
+sp-500-monthly-close-negrisk,S&P 500 monthly close negrisk,Equities,monthly,no,density,11,2026-03-31,2026-03-31
+sp-500-monthly-hit,S&P 500 monthly hit,Equities,monthly,no,barrier,26,2026-03-31,2026-06-30
+sp-500-monthly-ou,S&P 500 monthly O/U,Equities,monthly,no,density,7,2026-03-31,2026-03-31
+spacex-hit-price-monthly,SpaceX Hit Price Monthly,Equities,monthly,no,barrier,56,2026-09-01,2026-10-01
+spacex-hit-price-weekly,SpaceX Hit Price Weekly,Equities,weekly,no,barrier,185,2026-07-03,2026-09-18
+spacex-multi-strikes-monthly,SpaceX Multi Strikes Monthly,Equities,monthly,no,survival,39,2026-07-31,2026-09-30
+spacex-multi-strikes-weekly,SpaceX Multi Strikes Weekly,Equities,weekly,no,survival,143,2026-07-03,2026-09-18
+spce-earnings,SPCE Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+spcx-daily-up-or-down,SPCX Daily Up or Down,Equities,daily,yes,,49,2026-06-29,2026-09-14
+spcx-earnings,SPCX Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+spcx-neg-risk-weekly,SPCX Neg Risk Weekly,Equities,weekly,no,density,110,2026-07-03,2026-09-18
+spgi-earnings,SPGI Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+spx-hit-price-monthly,SPX Hit Price Monthly,Equities,monthly,no,barrier,11,2026-04-01,2026-04-01
+spy-daily-up-or-down,SPY Daily Up or Down,Equities,daily,yes,,114,2026-03-25,2026-09-14
+spy-hit-month,(SPY) hit Month,Equities,monthly,no,,25,2026-09-01,2026-10-01
+spy-hit-price-weekly,SPY Hit Price Weekly,Equities,weekly,no,barrier,352,2026-04-03,2026-09-18
+spy-open-daily-up-or-down,SPY Open Daily Up or Down,Equities,daily,yes,,32,2026-07-23,2026-09-14
+ssnc-earnings,SSNC Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+stba-earnings,STBA Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+stt-earnings,STT Earnings,Equities,monthly,no,,1,2026-07-16,2026-07-16
+stub-earnings,STUB Earnings,Equities,daily,no,,1,2026-08-12,2026-08-12
+sun-earnings,SUN Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+swbi-earnings,SWBI Earnings,Equities,monthly,no,,2,2026-06-17,2026-09-03
+syy-earnings,SYY Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+t-earnings,T Earnings,Equities,monthly,no,,1,2026-07-22,2026-07-22
+tbph-earnings,TBPH Earnings,Equities,monthly,no,,1,2026-08-11,2026-08-11
+tday-earnings,TDAY Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+tdoc-earnings,TDOC Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+tesla-hit-price-monthly,Tesla Hit Price Monthly,Equities,monthly,no,barrier,9,2026-04-01,2026-04-01
+tesla-hit-price-weekly,Tesla Hit Price Weekly,Equities,weekly,no,barrier,367,2026-04-03,2026-09-18
+tesla-multi-strikes-monthly,Tesla Multi Strikes Monthly,Equities,monthly,no,survival,8,2026-03-31,2026-03-31
+tesla-multi-strikes-weekly,Tesla Multi Strikes Weekly,Equities,weekly,no,survival,27,2026-03-06,2026-03-20
+tfc-earnings,TFC Earnings,Equities,monthly,no,,1,2026-07-17,2026-07-17
+tfx-earnings,TFX Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+tgt-earnings,TGT Earnings,Equities,monthly,no,,1,2026-08-19,2026-08-19
+tko-earnings,TKO Earnings,Equities,annual,no,,1,2026-08-03,2026-08-03
+tmus-earnings,TMUS Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+tost-earnings,TOST Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+trip-earnings,TRIP Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+tsco-earnings,TSCO Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+tsem-earnings,TSEM Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+tsla-earnings,TSLA Earnings,Equities,monthly,no,,1,2026-07-22,2026-07-22
+tsla-multi-strikes-weekly,TSLA Multi Strikes Weekly,Equities,daily,no,survival,16,2026-03-02,2026-03-10
+tsla-neg-risk-weekly,TSLA Neg Risk Weekly,Equities,weekly,no,density,290,2026-03-06,2026-09-18
+tsm-earnings,TSM Earnings,Equities,monthly,no,,1,2026-07-16,2026-07-16
+tsn-earnings,TSN Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+ttd-earnings,TTD Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+tw-earnings,TW Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+txn-earnings,TXN Earnings,Equities,monthly,no,,1,2026-07-22,2026-07-22
+txrh-earnings,TXRH Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+uaa-earnings,UAA Earnings,Equities,monthly,no,,1,2026-08-07,2026-08-07
+ual-earnings,UAL Earnings,Equities,monthly,no,,1,2026-07-15,2026-07-15
+uber-earnings,UBER Earnings,Equities,monthly,no,,1,2026-08-05,2026-08-05
+ubsi-earnings,UBSI Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+uhalb-earnings,UHAL.B Earnings,Equities,monthly,no,,1,2026-05-27,2026-05-27
+unfi-earnings,UNFI Earnings,Equities,monthly,no,,3,2026-03-10,2026-09-08
+unh-earnings,UNH Earnings,Equities,monthly,no,,1,2026-07-16,2026-07-16
+unp-earnings,UNP Earnings,Equities,monthly,no,,1,2026-07-23,2026-07-23
+unty-earnings,UNTY Earnings,Equities,monthly,no,,2,2026-04-10,2026-07-14
+ups-earnings,UPS Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+urbn-earnings,URBN Earnings,Equities,monthly,no,,1,2026-08-26,2026-08-26
+usb-earnings,USB Earnings,Equities,monthly,no,,1,2026-07-16,2026-07-16
+usfd-earnings,USFD Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+v-earnings,V Earnings,Equities,monthly,no,,1,2026-07-28,2026-07-28
+vik-earnings,VIK Earnings,Equities,monthly,no,,1,2026-08-18,2026-08-18
+virt-earnings,VIRT Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+vsco-earnings,VSCO Earnings,Equities,monthly,no,,1,2026-06-02,2026-06-02
+vz-earnings,VZ Earnings,Equities,monthly,no,,1,2026-07-24,2026-07-24
+way-earnings,WAY Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+wb-earnings,WB Earnings,Equities,monthly,no,,2,2026-03-18,2026-08-19
+wday-earnings,WDAY Earnings,Equities,monthly,no,,1,2026-08-27,2026-08-27
+wdfc-earnings,WDFC Earnings,Equities,monthly,no,,1,2026-07-09,2026-07-09
+wen-earnings,WEN Earnings,Equities,monthly,no,,1,2026-08-07,2026-08-07
+wfc-earnings,WFC Earnings,Equities,monthly,no,,1,2026-07-14,2026-07-14
+wing-earnings,WING Earnings,Equities,monthly,no,,1,2026-07-29,2026-07-29
+wix-earnings,Wix Earnings,Equities,annual,no,,1,2026-08-04,2026-08-04
+wmb-earnings,WMB Earnings,Equities,monthly,no,,1,2026-08-03,2026-08-03
+wmt-earnings,WMT Earnings,Equities,monthly,no,,1,2026-08-20,2026-08-20
+wrby-earnings,WRBY Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+wsm-earnings,WSM Earnings,Equities,monthly,no,,2,2026-05-28,2026-08-26
+wtfc-earnings,WTFC Earnings,Equities,monthly,no,,1,2026-07-20,2026-07-20
+wwd-earnings,WWD Earnings,Equities,monthly,no,,1,2026-07-27,2026-07-27
+wynn-earnings,WYNN Earnings,Equities,monthly,no,,1,2026-08-04,2026-08-04
+xom-earnings,XOM Earnings,Equities,monthly,no,,1,2026-07-31,2026-07-31
+yelp-earnings,YELP Earnings,Equities,monthly,no,,1,2026-08-06,2026-08-06
+yum-earnings,YUM Earnings,Equities,monthly,no,,1,2026-07-30,2026-07-30
+counter-strike,Counter Strike,Esports,daily,no,,7357,2026-08-15,2026-09-12
+dota-2,Dota 2,Esports,daily,no,,894,2026-08-15,2026-09-12
+league-of-legends,League of Legends,Esports,daily,no,,3611,2026-08-15,2026-09-12
+valorant,Valorant,Esports,daily,no,,1358,2026-08-15,2026-09-12
+dax-daily-up-or-down,DAX Daily Up or Down,Indices,daily,yes,,130,2026-03-02,2026-09-14
+dji-multi-strikes-weekly,DJI Multi Strikes Weekly,Indices,weekly,no,survival,3,2026-03-20,2026-03-20
+dow-jones-daily-up-or-down,Dow Jones Daily Up or Down,Indices,daily,yes,,130,2026-03-02,2026-09-14
+ftse-100-daily-up-or-down,FTSE 100 Daily Up or Down,Indices,daily,yes,,130,2026-03-02,2026-09-14
+hang-seng-daily-up-or-down,Hang Seng Daily Up or Down,Indices,daily,yes,,130,2026-03-02,2026-09-14
+ndx-daily-up-or-down,NDX Daily Up or Down,Indices,daily,yes,,41,2026-03-02,2026-08-04
+ndx-multi-strikes-weekly,NDX Multi Strikes Weekly,Indices,weekly,no,survival,4,2026-03-20,2026-03-20
+nik-daily-up-or-down,NIK Daily Up or Down,Indices,daily,yes,,128,2026-03-02,2026-09-14
+nya,NYA,Indices,daily,no,,130,2026-03-02,2026-09-14
+nya-multi-strikes-weekly,NYA Multi Strikes Weekly,Indices,weekly,no,survival,4,2026-03-20,2026-03-20
+russell-2000-daily-up-or-down,Russell 2000 Daily Up or Down,Indices,daily,yes,,129,2026-03-02,2026-09-14
+spx-daily-up-or-down,SPX Daily Up or Down,Indices,daily,yes,,130,2026-03-02,2026-09-14
+spx-multi-strikes-weekly,SPX Multi Strikes Weekly,Indices,weekly,no,survival,6,2026-03-20,2026-03-20
+spx-open-daily-up-or-down,SPX Open Daily Up or Down,Indices,daily,yes,,130,2026-03-02,2026-09-14
+ukx-hit-price-monthly,UKX Hit Price Monthly,Indices,monthly,no,barrier,8,2026-04-01,2026-04-01
+ai-millennium-prize-solution,AI millennium prize solution,Other,,no,,3,2026-10-01,2028-01-01
+anthropic-ipo,Anthropic IPO,Other,daily,no,,24,2026-12-31,2028-01-01
+anthropic-valuation,Anthropic Valuation,Other,monthly,no,,11,2027-01-01,2027-01-01
+best-ai-agent,best AI Agent,Other,monthly,no,,32,2026-09-30,2026-10-01
+best-ai-company,Best AI Company,Other,monthly,no,,122,2026-08-31,2026-12-31
+best-ai-model,Best AI model,Other,weekly,no,,13,2026-08-24,2026-09-07
+best-code-arena-webdev-ai,Best Code Arena WebDev AI,Other,monthly,no,,30,2026-09-30,2026-10-01
+chinese-ai-1,Chinese AI #1,Other,monthly,no,,50,2026-08-31,2026-10-01
+chinese-ai-2,Chinese AI #2,Other,monthly,no,,50,2026-08-31,2026-09-30
+claude-opus-released,Claude Opus released,Other,monthly,no,,3,2026-10-01,2027-01-01
+discord-ipo-market-cap,Discord IPO Market Cap,Other,annual,no,,8,2028-01-01,2028-01-01
+eurusd-daily-up-or-down,EUR/USD Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+eurusd-up-or-down-daily,EURUSD Up or Down Daily,Other,daily,yes,,16,2026-03-02,2026-03-23
+gbpusd-daily-up-or-down,GBP/USD Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+gbpusd-up-or-down-daily,GBPUSD Up or Down Daily,Other,daily,yes,,16,2026-03-02,2026-03-23
+google-gemini-flash-model-released-by,Google Gemini Flash Model Released by,Other,monthly,no,,9,2026-09-01,2026-10-31
+image-edit-arena-ranking,Image edit arena ranking,Other,,no,,28,2026-10-01,2026-10-01
+max-chatbot-arena,Max Chatbot Arena,Other,daily,no,,11,2026-10-01,2027-01-01
+mythos-released,Mythos released,Other,monthly,no,,10,2026-09-01,2026-10-31
+next-google-gemini-pro-model-released-on,Next Google Gemini Pro Model released on,Other,annual,no,,40,2026-08-25,2026-10-01
+openai-ipo,OpenAI IPO,Other,annual,no,,14,2027-01-01,2027-12-31
+openai-valuation,OpenAI Valuation,Other,monthly,no,,14,2027-01-01,2027-01-01
+second-best-ai-agent-lab,Second-best AI Agent Lab,Other,monthly,no,,32,2026-09-30,2026-10-01
+second-best-ai-company,Second Best AI Company,Other,monthly,no,,64,2026-08-31,2026-09-30
+second-best-math-ai,Second-Best Math AI,Other,monthly,no,,34,2026-10-31,2026-11-01
+top-ai-company-style-on,Top AI Company (Style on),Other,monthly,no,,32,2026-09-30,2026-09-30
+usdbrl-daily-up-or-down,USDBRL Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+usdcad-up-or-down-daily,USDCAD Up or Down Daily,Other,daily,yes,,16,2026-03-02,2026-03-23
+usdchf-daily-up-or-down,USD/CHF Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+usdjpy-daily-up-or-down,USD/JPY Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+usdjpy-up-or-down-daily,USDJPY Up or Down Daily,Other,daily,yes,,16,2026-03-02,2026-03-23
+usdkrw-daily-up-or-down,USDKRW Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+usdkrw-up-or-down-daily,USDKRW Up or Down Daily,Other,daily,yes,,16,2026-03-02,2026-03-23
+usdmxn-daily-up-or-down,USD/MXN Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+usdnok-daily-up-or-down,USDNOK Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+usdsek-daily-up-or-down,USDSEK Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+usdtry-daily-up-or-down,USDTRY Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+usdzar-daily-up-or-down,USDZAR Daily Up or Down,Other,daily,yes,,41,2026-07-10,2026-09-14
+yearly-ipos,Yearly IPOs,Other,annual,no,,29,2026-12-31,2026-12-31
+abraham-accords-new-country,Abraham Accords New Country,Politics,annual,no,,12,2026-12-31,2026-12-31
+anti-cartel-operation,anti-cartel operation,Politics,monthly,no,,3,2026-09-01,2026-11-01
+china-invade-taiwan,China invade Taiwan,Politics,monthly,no,,3,2026-09-30,2027-12-31
+china-x-philippines-clash,China x Philippines Clash,Politics,annual,no,,1,2026-12-31,2026-12-31
+china-x-taiwan-clash,China x Taiwan Clash,Politics,annual,no,,1,2027-01-01,2027-01-01
+enrichment-of-uranium,enrichment of uranium,Politics,monthly,no,,1,2026-12-31,2026-12-31
+foreign-intervention-in-gaza,Foreign Intervention In Gaza,Politics,annual,no,,3,2026-08-31,2026-12-31
+geenland-deriv,geenland deriv,Politics,monthly,no,,1,2026-12-31,2026-12-31
+house-odds-deriv,House Odds Deriv,Politics,monthly,no,,9,2025-07-11,2026-11-03
+houthi-military-action-against-saudi-arabia,Houthi military action against Saudi Arabia,Politics,monthly,no,,1,2026-08-15,2026-08-15
+houthis-target-saudi-arabia-by,Houthis target Saudi Arabia by,Politics,monthly,no,,2,2026-08-31,2026-09-15
+iran-npt-withdrawal,Iran NPT Withdrawal,Politics,annual,no,,1,2026-12-31,2026-12-31
+iran-nuke,Iran Nuke ,Politics,annual,no,,1,2026-12-31,2026-12-31
+iran-regime,iran regime,Politics,monthly,no,,2,2026-09-30,2026-12-31
+iran-successfully-targets-shipping-by,Iran successfully targets shipping by,Politics,monthly,no,,1,2026-08-31,2026-08-31
+iran-successfully-targets-shipping-on,Iran successfully targets shipping on,Politics,monthly,no,,19,2026-08-12,2026-08-31
+iran-target-a-arab-country-by,Iran target a Arab country by,Politics,monthly,no,,2,2026-09-15,2026-09-30
+iran-target-bahrain-by,Iran target Bahrain by,Politics,monthly,no,,3,2026-08-31,2026-09-30
+iran-target-egypt-by,Iran target Egypt by,Politics,monthly,no,,3,2026-08-31,2026-09-30
+iran-target-iraq-by,Iran target Iraq by,Politics,monthly,no,,3,2026-08-31,2026-09-30
+iran-target-jordan-by,Iran target Jordan by,Politics,monthly,no,,5,2026-08-31,2026-09-30
+iran-target-oman-by,Iran target Oman by,Politics,monthly,no,,3,2026-08-31,2026-09-30
+iran-target-qatar-by,Iran target Qatar by,Politics,monthly,no,,3,2026-08-31,2026-09-30
+iran-target-the-united-arab-emirates-by,Iran target the United Arab Emirates by,Politics,monthly,no,,3,2026-08-31,2026-09-30
+israel-military-action-against-lebanon,Israel military action against Lebanon,Politics,monthly,no,,28,2026-09-03,2026-09-30
+israel-target-a-syria-by,Israel target a Syria by,Politics,monthly,no,,3,2026-08-31,2026-09-30
+israel-x-lebanon-diplomatic-meeting,Israel x Lebanon diplomatic meeting,Politics,monthly,no,,8,2026-09-01,2026-10-01
+israel-x-turkey-clash,Israel x Turkey Clash,Politics,annual,no,,1,2026-12-31,2026-12-31
+lpc-up-or-down,LPC Up or Down,Politics,weekly,yes,,1,2026-03-29,2026-03-29
+merz-out,Merz Out,Politics,annual,no,,1,2026-12-31,2026-12-31
+moscow-air-traffic,Moscow air traffic,Politics,monthly,no,,2,2026-08-31,2026-09-15
+nato-article-5,NATO Article 5,Politics,annual,no,,1,2027-01-01,2027-01-01
+nato-downs-russian-drone,NATO downs Russian drone,Politics,monthly,no,,2,2026-09-15,2026-09-30
+netanyahu-out,Netanyahu out,Politics,monthly,no,,1,2026-12-31,2026-12-31
+next-leader-out,Next leader out,Politics,annual,no,,22,2027-01-01,2027-01-01
+nord-stream-on,Nord Stream On,Politics,annual,no,,1,2026-12-31,2026-12-31
+north-korea-missile-test,North Korea missile test,Politics,,no,,9,2026-08-31,2026-09-30
+pete-hegseth-out,Pete Hegseth out,Politics,monthly,no,,1,2026-12-31,2026-12-31
+putin-meet-zelenskyy,Putin meet Zelenskyy,Politics,daily,no,,1,2027-01-01,2027-01-01
+putin-out-as-president,Putin out as President,Politics,annual,no,,4,2026-08-31,2026-12-31
+putin-x-zelenskyy-where-next,Putin x Zelenskyy Where Next,Politics,annual,no,,30,2026-12-31,2026-12-31
+russia-capture-havrylivka,Russia capture Havrylivka,Politics,monthly,no,,2,2026-09-30,2026-12-31
+russia-capture-kupiansk-vuzlovyi,Russia capture Kupiansk-Vuzlovyi,Politics,monthly,no,,2,2026-09-30,2026-12-31
+russia-enter-group,Russia Enter Group,Politics,annual,no,,8,2026-12-31,2026-12-31
+russia-enter-pokrovskoe,Russia enter Pokrovskoe,Politics,monthly,no,,1,2027-01-01,2027-01-01
+russia-target-kyiv-on,Russia target Kyiv on,Politics,monthly,no,,40,2026-08-13,2026-09-30
+russia-x-ukraine-diplomatic-meeting,Russia x Ukraine diplomatic meeting,Politics,monthly,no,,8,2026-08-31,2027-01-01
+saudi-military-action-against-yemen,Saudi military action against Yemen,Politics,monthly,no,,2,2026-09-15,2026-09-30
+strait-of-trump,Strait of Trump,Politics,annual,no,,1,2026-12-31,2026-12-31
+taiwan-blockade,Taiwan blockade,Politics,monthly,no,,1,2027-01-01,2027-01-01
+trump-monthly-meeting,trump monthly meeting,Politics,monthly,no,,41,2026-08-31,2026-12-31
+trump-monthly-mentions,Trump Monthly Mentions,Politics,monthly,no,,22,2026-09-30,2026-09-30
+trump-out,Trump out,Politics,monthly,no,,3,2026-08-31,2026-12-31
+trump-putin-meet-where,Trump-Putin Meet where,Politics,annual,no,,15,2026-12-31,2026-12-31
+trump-talk-monthly,Trump talk monthly,Politics,monthly,no,,26,2026-08-31,2026-09-30
+trump-trade-deal-countries,Trump Trade Deal Countries,Politics,annual,no,,17,2026-12-31,2026-12-31
+trump-truth-social,Trump Truth Social,Politics,daily,no,,31,2026-08-18,2026-09-11
+ukraine-cede-territory,Ukraine cede territory,Politics,annual,no,,2,2026-09-01,2027-01-01
+ukraine-x-russia-peace-deal,Ukraine x Russia Peace Deal,Politics,annual,no,,2,2026-08-31,2026-12-31
+us-declares-war-on-iran,US declares war on Iran,Politics,monthly,no,,1,2027-01-01,2027-01-01
+us-to-invade-iran,US to invade Iran,Politics,monthly,no,,1,2026-12-31,2026-12-31
+us-x-iran-diplomatic-meeting,US x Iran diplomatic meeting,Politics,monthly,no,,6,2026-08-15,2027-03-31
+where-us-iran-meeting,where US-Iran meeting,Politics,daily,no,,19,2026-09-30,2026-09-30
+white-house-call-a-full-lid,White House call a full lid,Politics,weekly,no,,1,2026-08-22,2026-08-22
+whitehouse-daily-tweets,Whitehouse Daily Tweets,Politics,daily,no,,29,2026-08-18,2026-09-11
+who-attend-us-iran-peace-talks,Who attend US-Iran peace talks,Politics,monthly,no,,39,2026-09-01,2026-12-31
+xi-jinping-out,Xi Jinping out,Politics,monthly,no,,1,2026-12-31,2026-12-31
+yoon-out,Yoon Out,Politics,monthly,no,,1,2026-12-31,2026-12-31
+zelenskyy-out,Zelenskyy out,Politics,monthly,no,,1,2026-12-31,2026-12-31
+zelenskyy-tweets,Zelenskyy Tweets,Politics,daily,no,,3,2026-08-28,2026-08-28
+argpn-games,Primera Nacional,Sports,daily,no,,50,2026-09-06,2026-09-06
+asean-games,ASEAN Championship,Sports,daily,no,,36,2026-08-15,2026-08-15
+atp,ATP,Sports,daily,no,,40980,2026-06-20,2026-09-12
+austria-bundesliga-2026,Austria Bundesliga 2026,Sports,daily,no,,3,2026-08-15,2026-08-15
+bel1-games,Belgium Pro League,Sports,daily,no,,36,2026-08-15,2026-08-15
+bkfibaqeu,FIBA WCQ Europe,Sports,daily,no,,3,2026-08-27,2026-09-03
+bkfibaw-games,FIBA Women's World Cup,Sports,daily,no,,6,2026-09-11,2026-09-14
+brazil-serie-a,Brazil Serie A,Sports,daily,no,,12,2026-08-17,2026-09-02
+bundesliga-2,Bundesliga 2,Sports,daily,no,,61,2026-08-08,2026-08-08
+bundesliga-2025,Bundesliga 2025,Sports,daily,no,,134,2026-08-15,2026-09-07
+cfb-2026,CFB 2026,Sports,daily,no,,6315,2026-08-29,2026-09-13
+cfl,CFL,Sports,daily,no,,3,2026-09-14,2026-09-14
+chinese-super-league,Chinese Super League,Sports,daily,no,,40,2026-08-15,2026-08-15
+clf-games,Club Friendlies,Sports,daily,no,,649,2026-08-15,2026-08-16
+cricsherepunjab,Sher-E-Punjab T20,Sports,daily,no,,3,2026-09-14,2026-09-14
+dfb-pokal,DFB-Pokal,Sports,daily,no,,69,2026-08-21,2026-09-02
+dp-world-tour,DP World Tour,Sports,daily,no,,120,2026-09-14,2026-09-14
+ecs-games,FA Community Shield,Sports,daily,no,,36,2026-08-16,2026-08-16
+efl-championship,EFL Championship,Sports,daily,no,,250,2026-08-15,2026-08-15
+efl-cup,EFL Cup,Sports,daily,no,,3,2026-08-25,2026-08-25
+ere-2025,Eredivisie 2025,Sports,daily,no,,76,2026-08-08,2026-08-30
+europa-conference-league,Europa Conference League,Sports,daily,no,,107,2026-08-20,2026-08-27
+fa-cup,FA Cup,Sports,daily,no,,7,2026-08-11,2026-08-11
+international-cricket,International Cricket,Sports,daily,no,,27,2026-08-19,2026-09-16
+itf,ITF,Sports,daily,no,,120,2026-08-22,2026-09-09
+k-league,K-league,Sports,daily,no,,38,2026-08-15,2026-09-12
+kaz1-games,Premier League (Kazakhstan),Sports,daily,no,,3,2026-08-15,2026-08-15
+la-liga-2,La Liga 2,Sports,daily,no,,0,,
+la-liga-2025,La Liga 2025,Sports,daily,no,,283,2026-08-08,2026-09-09
+lacy-and-marlon-fortnite-deaths,Lacy and Marlon Fortnite Deaths,Sports,monthly,no,,8,2026-10-01,2026-10-01
+lib-2025,Copa Libertadores 2025,Sports,daily,no,,8,2026-08-28,2026-08-28
+ligue-1-2025,Ligue 1 2025,Sports,daily,no,,154,2026-08-08,2026-09-07
+ligue-2,Ligue 2,Sports,daily,no,,3,2026-08-28,2026-08-28
+ltu1-games,A Lyga,Sports,daily,no,,3,2026-09-06,2026-09-06
+mex-2025,Liga MX 2025,Sports,daily,no,,918,2026-07-17,2026-09-12
+mlb,MLB,Sports,daily,no,,53399,2026-06-20,2026-09-12
+mls-2025,MLS 2025,Sports,daily,no,,1613,2026-07-17,2026-09-12
+nfl-2026,NFL 2026,Sports,daily,no,,3221,2026-08-15,2026-09-13
+norway-eliteserien,Norway Eliteserien,Sports,daily,no,,36,2026-08-15,2026-08-15
+pga-tour,PGA Tour,Sports,daily,no,,209,2026-08-16,2026-08-30
+poland-ekstraklasa,Poland Ekstraklasa,Sports,daily,no,,39,2026-08-15,2026-08-15
+premier-league-2025,Premier League 2025,Sports,daily,no,,435,2026-08-08,2026-09-07
+primeira-liga,Primeira Liga,Sports,daily,no,,27,2026-08-25,2026-08-29
+primera-a,Primera A,Sports,daily,no,,49,2026-08-31,2026-09-07
+primera-divisin-argentina,Primera División Argentina,Sports,daily,no,,6,2026-08-15,2026-08-16
+primera-division,Primera Division,Sports,daily,no,,20,2026-08-31,2026-08-31
+russian-premier-league,Russian Premier League,Sports,daily,no,,38,2026-08-15,2026-08-15
+saudi-professional-league,Saudi Professional League,Sports,daily,no,,45,2026-08-15,2026-09-09
+scotland-league-cup,Scotland League Cup,Sports,daily,no,,3,2026-08-15,2026-08-15
+scottish-premiership,Scottish Premiership,Sports,daily,no,,236,2026-08-02,2026-08-10
+serie-a-2025,Serie A 2025,Sports,daily,no,,255,2026-08-09,2026-09-07
+slovenia-prvaliga-2026,Slovenia PrvaLiga 2026,Sports,daily,no,,3,2026-08-15,2026-08-15
+soccer-atc,OFB Cup,Sports,daily,no,,0,,
+soccer-auc,Australia Cup,Sports,daily,no,,426,2026-07-14,2026-07-22
+soccer-brco,Copa do Brasil,Sports,daily,no,,933,2026-08-03,2026-08-07
+soccer-el1,League One,Sports,daily,no,,0,,
+soccer-el2,League Two,Sports,daily,no,,0,,
+soccer-enl,National League,Sports,daily,no,,0,,
+soccer-fifwc,FIFA World Cup,Sports,daily,no,,14077,2026-06-20,2026-07-20
+soccer-fpd,Liga Promerica,Sports,daily,no,,216,2026-07-24,2026-09-05
+soccer-grc,Greek Cup,Sports,daily,no,,2,2026-09-05,2026-09-05
+soccer-gtm,Liga Nacional Guatemala,Sports,daily,no,,80,2026-08-03,2026-08-04
+soccer-hr1,Prva Liga,Sports,daily,no,,201,2026-08-03,2026-08-30
+soccer-lec,Leagues Cup,Sports,daily,no,,1308,2026-08-05,2026-09-03
+soccer-nlc,KNVB Beker,Sports,daily,no,,0,,
+soccer-nwsl,NWSL,Sports,daily,no,,1169,2026-07-04,2026-08-06
+soccer-ptc,Taca de Portugal,Sports,daily,no,,8,2026-08-29,2026-09-07
+soccer-scoc,Scottish Cup,Sports,daily,no,,0,,
+soccer-skc,King Cup,Sports,daily,no,,0,,
+soccer-svk1,Nike Liga,Sports,daily,no,,181,2026-08-02,2026-08-03
+sud-2025,Copa Sudamericana 2025,Sports,daily,no,,62,2026-08-20,2026-08-27
+sweden-allsvenskan-2026,Sweden Allsvenskan 2026,Sports,daily,no,,53,2026-08-15,2026-08-15
+tur-2025,Süper Lig 2025,Sports,daily,no,,116,2026-08-15,2026-09-11
+ucl-2025,UEFA Champions League 2025,Sports,daily,no,,471,2026-08-18,2026-09-10
+uel-2025,UEFA Europa League 2025,Sports,daily,no,,3,2026-08-20,2026-08-20
+ufc,UFC,Sports,weekly,no,,1101,2026-06-21,2026-09-09
+uru1-games,Primera División (Uruguay),Sports,daily,no,,53,2026-08-15,2026-08-22
+wnba,WNBA,Sports,daily,no,,542,2026-08-15,2026-08-29
+womens-champions-league,Women's Champions League,Sports,daily,no,,626,2026-07-22,2026-08-07
+wta,WTA,Sports,daily,no,,19541,2026-06-19,2026-09-12
+zuffa,Zuffa,Sports,daily,no,,1,2026-09-13,2026-09-13
+5-5-earthquake,5.5 Earthquake,Weather,weekly,no,,27,2026-08-09,2026-09-07
+6pt5-earthquake-weekly,6.5 Earthquake Weekly,Weather,weekly,no,,9,2026-08-10,2026-08-31
+amsterdam-daily-lowest-temperature,Amsterdam Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+amsterdam-daily-weather,Amsterdam Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+ankara-daily-lowest-temperature,Ankara Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+ankara-daily-weather,Ankara Daily Weather,Weather,daily,no,density,749,2026-02-28,2026-09-15
+atlanta-daily-lowest-temperature,Atlanta Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+atlanta-daily-weather,Atlanta Daily Weather,Weather,daily,no,density,722,2026-02-28,2026-09-15
+austin-daily-lowest-temperature,Austin Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+austin-daily-weather,Austin Daily Weather,Weather,daily,no,density,693,2026-07-08,2026-09-15
+beijing-daily-lowest-temperature,Beijing Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+beijing-daily-weather,Beijing Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+buenos-aires-daily-lowest-temperature,Buenos Aires Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+buenos-aires-daily-weather,Buenos Aires Daily Weather,Weather,daily,no,density,719,2026-02-28,2026-09-14
+busan-daily-lowest-temperature,Busan Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+busan-daily-weather,Busan Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+cape-town-daily-lowest-temperature,Cape Town Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+cape-town-daily-weather,Cape Town Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+chengdu-daily-lowest-temperature,Chengdu Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+chengdu-daily-weather,Chengdu Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+chicago-daily-lowest-temperature,Chicago Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+chicago-daily-weather,Chicago Daily Weather,Weather,daily,no,density,734,2026-02-28,2026-09-15
+chongqing-daily-lowest-temperature,Chongqing Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+chongqing-daily-weather,Chongqing Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+dallas-daily-lowest-temperature,Dallas Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+dallas-daily-weather,Dallas Daily Weather,Weather,daily,no,density,726,2026-02-28,2026-09-15
+denver-daily-lowest-temperature,Denver Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+denver-daily-weather,Denver Daily Weather,Weather,daily,no,density,693,2026-07-08,2026-09-15
+drought-d4-weekly,Exceptional Drought This Week,Weather,weekly,no,,40,2026-09-03,2026-09-03
+guangzhou-daily-lowest-temperature,Guangzhou Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+guangzhou-daily-weather,Guangzhou Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+helsinki-daily-lowest-temperature,Helsinki Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+helsinki-daily-weather,Helsinki Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+hong-kong-daily-lowest-temperature,Hong Kong Daily Lowest Temperature,Weather,daily,no,density,704,2026-07-08,2026-09-15
+hong-kong-daily-weather,Hong Kong Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+houston-daily-lowest-temperature,Houston Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+houston-daily-weather,Houston Daily Weather,Weather,daily,no,density,693,2026-07-08,2026-09-15
+how-many-7pt0-or-above-earthquakes,How many 7.0 or above earthquakes,Weather,annual,no,,5,2026-12-31,2026-12-31
+istanbul-daily-lowest-temperature,Istanbul Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+istanbul-daily-weather,Istanbul Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+jeddah-daily-lowest-temperature,Jeddah Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+jeddah-daily-weather,Jeddah Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+jinan-daily-lowest-temperature,Jinan Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+jinan-daily-weather,Jinan Daily Weather,Weather,daily,no,density,418,2026-08-08,2026-09-14
+karachi-daily-lowest-temperature,Karachi Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+karachi-daily-weather,Karachi Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+kuala-lumpur-daily-lowest-temperature,Kuala Lumpur Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+kuala-lumpur-daily-weather,Kuala Lumpur Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+london-daily-lowest-temperature,London Daily Lowest Temperature,Weather,daily,no,density,704,2026-07-08,2026-09-15
+london-daily-weather,London Daily Weather,Weather,daily,no,density,738,2026-02-28,2026-09-15
+los-angeles-daily-lowest-temperature,Los Angeles Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+los-angeles-daily-weather,Los Angeles Daily Weather,Weather,daily,no,density,682,2026-07-08,2026-09-14
+lucknow-daily-lowest-temperature,Lucknow Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+lucknow-daily-weather,Lucknow Daily Weather,Weather,daily,no,density,730,2026-03-06,2026-09-15
+madrid-daily-lowest-temperature,Madrid Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+madrid-daily-weather,Madrid Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+manila-daily-lowest-temperature,Manila Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+manila-daily-weather,Manila Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+mexico-city-daily-lowest-temperature,Mexico City Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+mexico-city-daily-weather,Mexico City Daily Weather,Weather,daily,no,density,682,2026-07-08,2026-09-14
+miami-daily-lowest-temperature,Miami Daily Lowest Temperature,Weather,daily,no,density,693,2026-07-08,2026-09-15
+miami-daily-weather,Miami Daily Weather,Weather,daily,no,density,731,2026-02-28,2026-09-15
+milan-daily-lowest-temperature,Milan Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+milan-daily-weather,Milan Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+monthly-tornadoes-us,Monthly Tornadoes US,Weather,daily,no,,6,2026-03-10,2026-04-10
+moscow-daily-lowest-temperature,Moscow Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+moscow-daily-weather,Moscow Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+munich-daily-lowest-temperature,Munich Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+munich-daily-weather,Munich Daily Weather,Weather,daily,no,density,729,2026-03-05,2026-09-15
+new-pandemic,New Pandemic,Weather,annual,no,,1,2027-01-01,2027-01-01
+ny-precipitation,NY Precipitation,Weather,monthly,no,,6,2026-03-31,2026-03-31
+nyc-daily-lowest-temperature,NYC Daily Lowest Temperature,Weather,daily,no,density,693,2026-07-08,2026-09-15
+nyc-daily-weather,NYC Daily Weather,Weather,daily,no,density,732,2026-02-28,2026-09-15
+panama-city-daily-lowest-temperature,Panama Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+panama-daily-weather,Panama Daily Weather,Weather,daily,no,density,682,2026-07-08,2026-09-14
+paris-daily-lowest-temperature,Paris Daily Lowest Temperature,Weather,daily,no,density,704,2026-07-08,2026-09-15
+paris-daily-weather,Paris Daily Weather,Weather,daily,no,density,743,2026-02-28,2026-09-15
+qingdao-daily-lowest-temperature,Qingdao Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+qingdao-daily-weather,Qingdao Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+san-francisco-daily-lowest-temperature,San Francisco Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+san-francisco-daily-weather,San Francisco Daily Weather,Weather,daily,no,density,682,2026-07-08,2026-09-14
+sao-paulo-daily-lowest-temperature,Sao Paulo Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+sao-paulo-daily-weather,Sao Paulo Daily Weather,Weather,daily,no,density,724,2026-02-28,2026-09-14
+seattle-daily-lowest-temperature,Seattle Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+seattle-daily-weather,Seattle Daily Weather,Weather,daily,no,density,719,2026-02-28,2026-09-14
+seattle-precipitation,Seattle Precipitation,Weather,monthly,no,,7,2026-03-31,2026-03-31
+seoul-daily-lowest-temperature,Seoul Daily Lowest Temperature,Weather,daily,no,density,693,2026-07-09,2026-09-15
+seoul-daily-weather,Seoul Daily Weather,Weather,daily,no,density,750,2026-02-28,2026-09-15
+shanghai-daily-lowest-temperature,Shanghai Daily Lowest Temperature,Weather,daily,no,density,693,2026-07-09,2026-09-15
+shanghai-daily-weather,Shanghai Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+shenzhen-daily-lowest-temperature,Shenzhen Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+shenzhen-daily-weather,Shenzhen Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+singapore-daily-lowest-temperature,Singapore Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+singapore-daily-weather,Singapore Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+taipei-daily-lowest-temperature,Taipei Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+taipei-daily-weather,Taipei Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+tel-aviv-daily-lowest-temperature,Tel Aviv Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+tel-aviv-daily-weather,Tel Aviv Daily Weather,Weather,daily,no,density,715,2026-03-10,2026-09-15
+temperature-increase,Temperature Increase,Weather,monthly,no,,9,2026-03-10,2026-04-10
+tokyo-daily-lowest-temperature,Tokyo Daily Lowest Temperature,Weather,daily,no,density,693,2026-07-09,2026-09-15
+tokyo-daily-weather,Tokyo Daily Weather,Weather,daily,no,density,701,2026-03-10,2026-09-15
+toronto-daily-lowest-temperature,Toronto Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+toronto-daily-weather,Toronto Daily Weather,Weather,daily,no,density,726,2026-02-28,2026-09-14
+warsaw-daily-lowest-temperature,Warsaw Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+warsaw-daily-weather,Warsaw Daily Weather,Weather,daily,no,density,704,2026-07-08,2026-09-15
+wellington-daily-lowest-temperature,Wellington Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+wellington-daily-weather,Wellington Daily Weather,Weather,daily,no,density,737,2026-02-28,2026-09-15
+wuhan-daily-lowest-temperature,Wuhan Daily Lowest Temperature,Weather,daily,no,density,275,2026-08-22,2026-09-15
+wuhan-daily-weather,Wuhan Daily Weather,Weather,daily,no,density,693,2026-07-09,2026-09-15
+zhengzhou-daily-lowest-temperature,Zhengzhou Daily Lowest Temperature,Weather,daily,no,density,264,2026-08-22,2026-09-14
+zhengzhou-daily-weather,Zhengzhou Daily Weather,Weather,daily,no,density,418,2026-08-08,2026-09-14
