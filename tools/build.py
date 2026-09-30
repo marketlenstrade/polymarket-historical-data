@@ -374,7 +374,8 @@ def replay_snippet(ch: dict) -> str:
         f"import csv\n"
         f"{STRATEGY}\n"
         f"with open(\"{folder}/markets.csv\") as f:\n"
-        f"    ids = [row[\"market_id\"] for row in csv.DictReader(f)]\n"
+        f"    rows = sorted(csv.DictReader(f), key=lambda r: -float(r[\"volume_usd\"]))\n"
+        f"    ids = [r[\"market_id\"] for r in rows[:100]]  # the 100 largest markets\n"
         f"result = sdk.backtest(OpeningFader(), ids, initial_cash=10_000, data_dir=\"{folder}\")\n"
         f"print(result.summary())"
     )

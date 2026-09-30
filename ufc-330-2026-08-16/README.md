@@ -58,7 +58,8 @@ class OpeningFader(Strategy):
 
 sdk = MarketLens()  # reads MARKETLENS_API_KEY, a free key is enough
 with open("ufc-330-2026-08-16/markets.csv") as f:
-    ids = [row["market_id"] for row in csv.DictReader(f)]
+    rows = sorted(csv.DictReader(f), key=lambda r: -float(r["volume_usd"]))
+    ids = [r["market_id"] for r in rows[:100]]  # the 100 largest markets
 result = sdk.backtest(OpeningFader(), ids, initial_cash=10_000, data_dir="ufc-330-2026-08-16")
 print(result.summary())
 ```
